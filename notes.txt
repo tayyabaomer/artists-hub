@@ -1,0 +1,37 @@
+Website for Class///////////
+
+All colors for websites//////
+
+006769   Dark Main color
+
+40A578   Medium dark color
+
+9DDE8B  Light color
+
+E6FF94 Drak scondary color
+
+Link for these colors//////
+https://colorhunt.co/palette/00676940a5789dde8be6ff94
+
+
+
+/////////////////////
+///////Web site's BAckground color/////////
+
+#daebd4 light lighter shade
+
+
+
+For text gradient color/////////
+        rgb(246, 239, 171),
+        rgb(201, 221, 149),
+        rgb(157, 207, 148),
+        rgb(126, 200, 151),
+        rgb(94, 188, 151),
+        rgb(16, 167, 150)
+
+
+
+///////background tranparent color
+
+rgba(0, 103, 105, 0.5)
